@@ -64,7 +64,8 @@ const styles = StyleSheet.create({
     },
     time:{
         margin: 20,
-    }, text: {
+    }, 
+    text: {
       fontFamily: 'BalsamiqSans_400Regular'
     }
      });
